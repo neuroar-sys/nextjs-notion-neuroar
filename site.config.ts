@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Neuroar',
-  domain: 'neuroar.vercel.app',
+  domain: 'neuroarg.vercel.app',
   author: 'alesi',
 
   // open graph metadata (optional)
