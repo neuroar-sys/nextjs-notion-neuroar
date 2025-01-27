@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Neuroar',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'neuroar.vercel.app',
   author: 'alesi',
 
   // open graph metadata (optional)
