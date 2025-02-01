@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'alesi',
 
   // open graph metadata (optional)
-  description: 'Transformación Social',
+  description: 'Transformación Personal Eficaz',
 
   // social usernames (optional)
   twitter: 'transitive_bs',
